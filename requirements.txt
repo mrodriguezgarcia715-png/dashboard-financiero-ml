@@ -1,8 +1,0 @@
-streamlit
-yfinance
-pandas
-plotly
-fredapi
-groq
-python-dotenv
-requests
